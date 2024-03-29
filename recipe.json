@@ -1,0 +1,206 @@
+{
+    "Erdnussplätzchen": {
+        "name": "Erdnussplätzchen",
+        "type": "cookie",
+        "ingredients": [
+            [100, "g", "Butter"],
+            [150, "g", "Mehl"],
+            [125, "g", "Zucker"],
+            [1, "pr", "Salz"],
+            [1, "", "Ei"],
+            [1, "TL", "Backpulver"],
+            ["1/2", "TL", "Zimt"],
+            [1, "EL", "Erdnusscreme, fein"],
+            [100, "g", "Erdnüsse, gesalzen und geschält"]
+        ],
+        "preparation": [
+            "Backofen auf 180° vorheizen.",
+            "Butter etwas weich werden lassen und mit Zucker und Salz cremig rühren. Das Ei und die Erdnusscreme unterrühren. Das Mehl mit dem Backpulver und dem Zimt mischen und unter die Buttermasse rühren, bis der Teig schwer reißend vom Löffel fällt.",
+            "Mit einem in Mehl getauchten Teelöffel kleine Portionen vom Teig abstechen, auf Backpapier setzen und zu Häufchen formen. Mit den Nüssen bestreuen.",
+            "Ca. 15 min backen, bis sie schön goldbraun sind. Abkühlen lassen."
+        ],
+        "informationen": [
+            "Portionen: 1",
+            "Arbeitszeit: ca.25 min"
+        ],
+        "link": "https://www.chefkoch.de/rezepte/1784501288516671/Bissige-Erdnussplaetzchen-besonders-knackig-durch-ganze-Erdnuesse.html"
+    },
+    "CornflakesKekse": {
+        "name": "Cornflakes-Kekse",
+        "type": "cookie",
+        "ingredients": [
+            [125, "g", "Margarine"],
+            [80, "g", "Zucker"],
+            [1, "", "Ei"],
+            [150, "g", "Mehl"],
+            [1, "TL", "Backpulver"],
+            [150, "g", "Cornflakes"],
+            [200, "g", "Schokostreusel"]
+        ],
+        "preparation": [
+            "Margarine, Zucker und Ei schaumig rühren. Die anderen Zutaten nach und nach untermischen. Aus dem Teig kleine Kugeln formen und mit Abstand auf ein mit Backpapier belegtes Blech legen. Mit der Gabel etwas platt drücken. ca. 20min im Ofen backen."
+        ],
+        "informationen": [
+            "Portionen: 4",
+            "Arbeitszeit: ca.30 min"
+        ],
+        "link": "https://www.chefkoch.de/rezepte/559831154002650/Cornflakes-Kekse.html"
+    },
+    "ChocolateChipCookies": {
+        "name": "Chocolate-Chip-Cookies",
+        "type": "cookie",
+        "ingredients": [
+            [150, "g", "Butter oder Margarine"],
+            [150, "g", "brauner Zucker (Kandisfarin)"],
+            [1, "Pck", "Vanille Zucker"],
+            [2, "", "Eier (Größe M)"],
+            [200, "g", "Weizenmehl"],
+            [1, "TL gestr.", "Backpulver"],
+            [100, "g", "gehackte Haselnusskerne"],
+            [100, "g", "Schokoladentropfen oder grob gehackte dunkle Schokolade"]
+        ],
+        "preparation": [
+            "Für den Teig Butter oder Margarine mit Handrührgerät mit Rührbesen auf höchster Stufe geschmeidig rühren. Nach und nach Zucker und Vanillezucker unterrühren. So lange rühren, bis eine gebundene Masse entstanden ist. Eier nach und nach unterrühren (jedes Ei etwa 1/2 min).",
+            "Mehl mit Backpulver mischen, sieben und in 2 Portionen auf mittlerer Stufe unterrühren. Zuletzt Haselnusskerne und Schokolade unterrühren.",
+            "Von dem Teig mit 2 Teelöffeln walnussgroße Häufchen auf Backblech (gefettet, mit Backpapier belegt) setzen, dabei genügend Abstand zwischen den Teighäufchen lassen (Teig läuft etwas auseinander). Das Backblech in den Backofen schieben.",
+            "Die Cookies mit dem Backpapier von den Backblechen auf Kuchenroste ziehen, Cookies erkalten lassen."
+        ],
+        "informationen": [
+            "Zubereitungszeit: 25 min",
+            "Backzeit: 10-12 min je Backblech",
+            "Ober-/Unterhitze: etwa 180° (vorgeheizt)",
+            "Heißluft: etwa 160° (vorgeheizt)",
+            "Gas: Stufe 2-3 (vorgeheizt)",
+            "Haltbarkeit: etwa 4 Wochen in gut schließenden Dosen"
+
+        ],
+        "link": "#"
+    },
+    "Kokosmakronen": {
+        "name": "Kokosmakronen",
+        "type": "cookie",
+        "ingredients": [
+            [200, "g", "Kokosraspel"],
+            [1, "Pck", "Puderzucker"],
+            [1, "Pck", "Marzipanrohmasse"],
+            [2, "EL", "Rum"],
+            [5, "", "Eiweiß"],
+            ["1/2", "", "Zitrone"]
+        ],
+        "preparation": [
+            "Das Marzipan schön klein pflücken und mit den anderen Zutaten gut vermischen. Am besten mit einem Handrührgerät.",
+            "Mit einem Löffel kleine Häufchen auf einem gefetteten Backblech verteilen, nicht zu eng, sie werden noch etwas größer. Bei 180° 20 min backen."
+        ],
+        "informationen": [
+            "Arbeitszeit: ca. 15 min",
+            "Koch-/Backzeit: ca. 20 min"
+
+        ],
+        "link": "https://www.chefkoch.de/rezepte/383281124886753/Kokosmakronen.html"
+    },
+    "Törtchen": {
+        "name": "Törtchen",
+        "type": "cookie",
+        "ingredients": [
+            [300, "g", "Butter oder Margarine"],
+            [275, "g", "Zucker"],
+            [1, "Pck", "Vanillezucker"],
+            ["3-4", "", "Eier"],
+            [1, "pr", "Salz"],
+            [500, "g", "Mehl"],
+            [1, "Pck", "Backpulver"],
+            ["1/8", "l", "Milch"],
+            [100, "g", "Schokostreusel"]
+        ],
+        "preparation": [
+            "Rühre die Magarine mit dem Mixer geschmeidig.",
+            "Gib nach und nach Zucker, Vanillezucker, Eier und Salz hinzu.",
+            "Mische das Mehl mit dem Backpulver und rühre es abwechselnd mit  der Milch unter. (Achtung: Verwende nur so viel Milch, dass der Teig schwer - reißend vom Löffel fällt!)",
+            "Rühre zum Schluss die Schokostreusel unter den Teig.",
+            "Fette die Backförmchen oder die Kuchenform mit etwas Margarine sorgfältig ein und gib etwas Teig hinein.",
+            "Schiebe die kleinen Kuchen in den vorgeheizten Backofen (bei 200°) und lasse sie ca. 20-30 min backen."
+        ],
+        "informationen": [
+            "Anzahl: ca 24 Stück"
+        ],
+        "link": "#"
+    },
+
+
+
+    "RocherTorte": {
+        "name": "Rocher-Torte",
+        "type": "cake",
+        "ingredients": [
+            [150, "g", "Margarine"],
+            [150, "g", "Zucker"],
+            [4, "", "Eier"],
+            [200, "g", "Haselnüsse"],
+            [1, "TL", "Backpulver"],
+            [2, "Pck", "Ferrero Rocher (32 St)"],
+            [600, "ml", "Sahne"],
+            [2, "Pck", "Sahnesteif"],
+            [2, "Pck", "Vanillezucker"]
+        ],
+        "preparation": [
+            "Margarine geschmeidig rühren, Eier und Zucker dazugeben, weiterhin rühren, bis sich der Zucker halbwegs aufgelöst hat.",
+            "Dann Haselnüsse und Backpulver unterrühren und den Teig in eine gefettete Springform geben. Bei 175° 25-30 min backen.",
+            "Den abgekühlten Kuchen auf eine Kuchenplatte geben und einen Tortenring herumlegen. Alle Rocher-Kugeln bis auf 8 Stück mit einer Gabel zerdrücken, 400g mit Sahnefestiger steif geschlagene Sahne dazugeben und diese Masse auf den Kuchen streichen. 30 min kühl stellen. 200g Sahne steif schlagen, Vanillezucker dazugeben und damit Torte verzieren, Rocher-Kugeln halbieren und auf der Torte verteilen. Mit Schokoraspel verzieren."
+        ],
+        "informationen": [
+            
+        ],
+        "link": "#"
+    },
+
+
+
+    "YumYumSalat": {
+        "name": "Yum-Yum-Salat",
+        "type": "nutrition",
+        "ingredients": [
+            [1, "", "großer Chinakohl"],
+            [2, "Pck", "Yum Yum Nudeln (chicken flavour)"],
+            [6, "EL", "Sonnenblumenkerne"],
+            [1, "TL", "Salz"],
+            [1, "TL", "Pfeffer"],
+            [3, "EL", "Zucker"],
+            [6, "EL", "Essig, (7-Kräuter Essig)"],
+            [4, "EL", "Öl, z.B. Walnussöl"],
+            [6, "EL", "Wasser"]
+        ],
+        "preparation": [
+            "Öl, Zucker, Essig, Pfeffer, Salz und die Kräuter aus der Nudeltüte zusammen verrühren, bis sich der Zucker aufgelöst hat.",
+            "Den Chinakohl fein schneiden. Die Nudeln fein zerbröseln und zu dem Salat geben. Mandeln und Sonnenblumenkerne ohne Fett in der Pfanne hell anrösten und zu dem Salat geben.",
+            "Das Dressing erst 15 min vor dem Verzehr über den Salat geben. Gut durchrühren und fertig ist der Yum-Yum-Salat!"
+        ],
+        "informationen": [
+            "Arbeitszeit: ca. 15 min"
+        ],
+        "link": "https://www.chefkoch.de/rezepte/1214631227165837/Yum-Yum-Salat.html"
+    },
+
+
+
+    "FladenbrotBelegt": {
+        "name": "Fladenbrot-belegt",
+        "type": "breakfast_dining",
+        "ingredients": [
+            ["","","Fladenbrot"],
+            ["","","Schinken"],
+            ["","","Käse"],
+            ["","","Remoulade"],
+            ["","","Salat"],
+            ["","","Gurken"],
+            ["","","Tomaten"]
+            
+        ],
+        "preparation": [
+            "Fladenbrot aufschneiden, Zutaten drauf legen und zuklappen."
+        ],
+        "informationen": [
+            "Arbeitszeit: ca. 15 min"
+        ],
+        "link": "https://www.baeckerei-lange.de/de/produkte/artikel/Fladenbrot-belegt.php"
+    }
+}

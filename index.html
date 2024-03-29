@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/dark.css" id="designSheetId">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="/images/logo.svg" type="image/svg+xml">
+    <title>Rezepte</title>
+</head>
+<body>
+
+    <header class="header">
+        <span class="material-symbols-outlined asideSpan" onclick="openAside()">menu</span>
+        <p>Rezepte</p>
+    </header>
+
+    <aside class="aside">
+        <span class="material-symbols-outlined asideSpan" onclick="openAside()">menu</span>
+        <p>Einstellungen</p>
+        
+        <span class="material-symbols-outlined asideSpan" id="design" onclick="designSwitch()">light_mode</span>
+        <p id="designP">Design</p>
+    </aside>
+    <div id="ceiling" onclick="openAside()"></div>
+
+    <main>
+
+        <!-- 
+            <span class="material-symbols-outlined">cake</span>
+            <span class="material-symbols-outlined">cookie</span>
+            <span class="material-symbols-outlined">lunch_dining</span>
+            <span class="material-symbols-outlined">nutrition</span>
+            <span class="material-symbols-outlined">breakfast_dining</span>
+        -->
+
+    </main>
+    
+    <script src="script.js"></script>
+
+</body>
+</html>

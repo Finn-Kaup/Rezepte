@@ -1,0 +1,65 @@
+*{
+    color: rgb(31, 31, 31);
+}
+
+body{
+    background-color: white;
+}
+
+.header span{
+    background-color: rgb(221, 227, 235);
+}
+
+aside{
+    background-color: rgb(240, 244, 250);
+}
+
+.aside span:hover{
+    background-color: rgb(221, 227, 235);
+}
+
+.content{
+    background-color: rgb(240, 244, 250);
+}
+.content:hover{
+    background-color: rgb(231, 235, 241);
+}
+
+.content span{
+    background-color: rgb(221, 227, 235);
+    color: rgb(60, 63, 66);
+}
+
+
+header{
+    background-color: rgb(240, 244, 250);
+}
+.header div{
+    background-color: rgb(221, 227, 235);
+}
+
+
+section{
+    background-color: rgb(240, 244, 250);
+}
+section table{
+    background-color: rgb(221, 227, 235);
+    border-color: rgb(195, 199, 196);
+}
+section td{
+    border-color: rgb(195, 199, 196);
+}
+.leftTd{
+    border-color: rgb(195, 199, 196);
+}
+.back{
+    background-color: rgb(221, 227, 235);
+}
+
+main{
+    background-color: rgb(240, 244, 250);
+}
+
+footer{
+    background-color: rgb(240, 244, 250);
+}
